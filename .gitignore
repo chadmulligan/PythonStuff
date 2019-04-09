@@ -4,3 +4,4 @@
 *.sqlite
 *.sqblite
 *.zip
+*.npz
